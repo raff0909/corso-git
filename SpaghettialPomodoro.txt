@@ -1,0 +1,6 @@
+spaghetti al pomodoro 
+
+ingredienti:
+- spaghetti
+- pomodoro 
+- basilico 
